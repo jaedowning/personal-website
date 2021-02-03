@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Oregon Health & Science University - Portland State University
+    company: OHSU-PSU School of Public Health
     company_url: 'https://ohsu-psu-sph.org/'
     location: Portland, Oregon
     date_start: '2019-01-01'
@@ -36,14 +36,14 @@ experience:
     date_start: '2017-07-01'
     date_end: '2018-12-31'
     
-     - title: Data Scientist
+  - title: Data Scientist
     company: Livongo
     company_url: 'https://www.livongo.com/'
     location: Mountainview, CA
     date_start: '2015-08-01'
     date_end: '2016-04-30'
     
-     - title: Post-Doctoral Fellow
+ - title: Post-Doctoral Fellow
     company: University of Calfornia, Berkeley
     company_url: 'https://publichealth.berkeley.edu/'
     location: Berkeley, CA
