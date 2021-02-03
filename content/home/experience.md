@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Assistant Professor
+    company: Oregon Health & Science University - Portland State University
+    company_url: 'https://ohsu-psu-sph.org/'
+    location: Portland, Oregon
+    date_start: '2019-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Assistant Professor
+    company: University of South Carolina
+    company_url: 'https://sc.edu/study/colleges_schools/public_health/index.php'
+    location: Columbia, South Carolina
+    date_start: '2017-07-01'
+    date_end: '2018-12-31'
+    
+     - title: Data Scientist
+    company: Livongo
+    company_url: 'https://www.livongo.com/"
+    location: Mountainview, CA
+    date_start: '2015-08-01'
+    date_end: '2016-04-30'
+    
+     - title: Post-Doctoral Fellow
+    company: University of Calfornia, Berkeley
+    company_url: 'https://publichealth.berkeley.edu/'
+    location: Berkeley, CA
+    date_start: '2015-09-01'
+    date_end: '2017-06-30'
+   
 ---
