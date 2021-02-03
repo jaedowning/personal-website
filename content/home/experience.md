@@ -25,28 +25,31 @@ experience:
   - title: Assistant Professor
     company: OHSU-PSU School of Public Health
     company_url: 'https://ohsu-psu-sph.org/'
-    location: Portland, Oregon
+    location: Oregon
     date_start: '2019-01-01'
     date_end: ''
         
+        
   - title: Assistant Professor
     company: University of South Carolina
-    company_url: 'https://sc.edu/study/colleges_schools/public_health/index.php'
-    location: Columbia, South Carolina
+    company_url: 'https://sc.edu/study/colleges_schools/public_health'
+    location: South Carolina
     date_start: '2017-07-01'
     date_end: '2018-12-31'
+    
     
   - title: Data Scientist
     company: Livongo
     company_url: 'https://www.livongo.com/'
-    location: Mountainview, CA
+    location: California
     date_start: '2015-08-01'
     date_end: '2016-04-30'
+    
     
  - title: Post-Doctoral Fellow
     company: University of Calfornia, Berkeley
     company_url: 'https://publichealth.berkeley.edu/'
-    location: Berkeley, CA
+    location: California
     date_start: '2015-09-01'
     date_end: '2017-06-30'
    
