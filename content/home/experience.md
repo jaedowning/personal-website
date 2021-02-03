@@ -28,7 +28,7 @@ experience:
     location: Oregon
     date_start: '2019-01-01'
     date_end: ''
-    description:''    
+    description: ''    
         
   - title: Assistant Professor
     company: University of South Carolina
@@ -36,7 +36,7 @@ experience:
     location: South Carolina
     date_start: '2017-07-01'
     date_end: '2018-12-31'
-    description:'' 
+    description: '' 
     
   - title: Data Scientist
     company: Livongo
@@ -44,7 +44,7 @@ experience:
     location: California
     date_start: '2015-08-01'
     date_end: '2016-04-30'
-    description:'' 
+    description: ''  
     
  - title: Post-Doctoral Fellow
     company: University of Calfornia, Berkeley
@@ -52,5 +52,5 @@ experience:
     location: California
     date_start: '2015-09-01'
     date_end: '2017-06-30'
-    description:'' 
+    description: ''  
 ---
