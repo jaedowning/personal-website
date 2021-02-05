@@ -28,19 +28,32 @@ experience:
     location: 'Oregon'
     date_start: '2019-01-01'
     date_end: ''
-    description: >-
-        Responsibilities include:
+    description: ''
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: 'Professor'
-    company: 'University X'
+  - title: 'Assistant Professor'
+    company: 'University of South Carolina'
     company_url: ''
+    location: 'South Carolina'
+    date_start: '2017-07-01'
+    date_end: '2018-12-31'
+    description: ''
+    
+            
+  - title: 'Data Scientist'
+    company: 'Livongo'
+    company_url: 'https://www.livongo.com/''
     location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    date_start: '2015-08-01'
+    date_end: '2016-04-30'
+    description: ''
+    
+            
+  - title: 'Post-Doctoral Fellow'
+    company: 'University of California, Berkeley'
+    company_url: 'https://publichealth.berkeley.edu/''
+    location: 'California'
+    date_start: '2015-09-01'
+    date_end: '2017-06-30'
+    description: ''
 
 ---
