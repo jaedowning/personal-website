@@ -38,21 +38,4 @@ experience:
     date_end: '2018-12-31'
     description: ' '
 
-  - title: 'Data Scientist'
-    company: 'Livongo'
-    company_url: 'https://www.livongo.com''
-    location: 'California'
-    date_start: '2015-08-01'
-    date_end: '2016-04-30'
-    description: ''
-    
-            
-  - title: 'Post Doc'
-    company: 'UC Berkeley'
-    company_url: 'https://publichealth.berkeley.edu''
-    location: 'California'
-    date_start: '2015-09-01'
-    date_end: '2017-06-30'
-    description: ''
-
 ---
