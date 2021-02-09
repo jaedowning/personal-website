@@ -32,7 +32,7 @@ feature:
   icon: table
   icon_pack: fas
   name: Stata
- - description:
+- description:
   icon: r-project
   icon_pack: fab
   name: R
