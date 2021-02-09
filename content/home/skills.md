@@ -36,6 +36,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description:
+  icon: check-square
+  icon_pack: fas
+  name: Evaluation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
