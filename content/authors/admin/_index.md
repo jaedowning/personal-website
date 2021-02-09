@@ -19,7 +19,7 @@ bio: Interested in it all.
 # Interests to show in About widget
 interests:
 - Data Science
-- Social Determinants of Health
+- Health Economics
 - Survey Design
 
 # Education to show in About widget
