@@ -41,8 +41,8 @@ abstract: Hair removal can be a critical component of the gender-affirmation pro
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+links:
+ - name: Custom Link
    url: 'https://jamanetwork.com/journals/jamadermatology/article-abstract/2775570'
 
 url_pdf: ''
