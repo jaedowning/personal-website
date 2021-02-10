@@ -2,7 +2,7 @@
 name = "Permanent+Marker"
 
 # Optional Google font URL
-google_fonts = "family=Permanent+Marker:wght@400;700&family=Permanent+Marker&family=Permanent+Marker:wght@400;700"
+google_fonts = "family=Permanent+Marker"
 
 
 # Font families
