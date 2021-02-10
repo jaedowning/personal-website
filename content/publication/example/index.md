@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Hair Removal for Patients Undergoing Feminizing Surgeries in Oregon’s Medicaid Program"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -43,7 +43,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-   url: https://jamanetwork.com/journals/jamadermatology/article-abstract/2775570
+   url: 'https://jamanetwork.com/journals/jamadermatology/article-abstract/2775570'
 
 url_pdf: ''
 url_code: ''
