@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-01"
+date: "2021-01-01T00:00:00Z"
 doi: "10.1001/jamadermatol.2020.5419"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: In *JAMA Dermatology*
 publication_short: In *JAMA Dermatology*
 
-abstract: Hair removal can be a critical component of the gender-affirmation process for transgender patients and is often required before vaginoplasty or phalloplasty to prevent postoperative complications. In 2015, Oregon was one of the first of 22 states to cover gender-affirming surgeries in their Medicaid program. As of January 2020, Oregon is 1 of 6 states covering hair removal (electrolysis in October 2015 and laser procedures in October 2016) as part of presurgical preparation for genital or chest surgeries. Oregon’s plan covers these services without cost-sharing and requires procedures to be performed by board-certified dermatologists or other health care professionals licensed to perform hair removal. Little is known about use of electrolysis hair removal and laser hair removal once covered. This study describes hair removal for transgender individuals assigned male sex at birth in Oregon’s Medicaid program from 2015 to 2018.
+abstract: Hair removal can be a critical component of the gender-affirmation process for transgender patients and is often required before vaginoplasty or phalloplasty to prevent postoperative complications. In 2015, Oregon was one of the first of 22 states to cover gender-affirming surgeries in their Medicaid program. Oregon is 1 of 6 states covering hair removal as part of presurgical preparation for genital or chest surgeries. Oregon’s plan covers these services without cost-sharing and requires procedures to be performed by board-certified dermatologists or other health care professionals licensed to perform hair removal. Little is known about use of electrolysis hair removal and laser hair removal once covered. This study describes hair removal for transgender individuals assigned male sex at birth in Oregon’s Medicaid program from 2015 to 2018.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: 'https://jamanetwork.com/journals/jamadermatology/article-abstract/2775570'
 
-url_pdf: ''
+url_pdf: 'https://jamanetwork.com/journals/jamadermatology/article-abstract/2775570'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,12 +70,3 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
