@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: LGBTQ
+    tag: LGBTQ
+  - name: Social Determinants
+    tag: SD
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
