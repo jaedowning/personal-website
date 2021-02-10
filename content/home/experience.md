@@ -40,7 +40,7 @@ experience:
         
   - title: 'Data Scientist'
     company: 'Livongo'
-    company_url: 'https://www.livongo.com'
+    company_url: ''
     location: 'California'
     date_start: '2015-07-01'
     date_end: '2016-4-15'
