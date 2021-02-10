@@ -1,12 +1,12 @@
 # Font style metadata
-name = "Permanent+Marker"
+name = "Minimal"
 
 # Optional Google font URL
 google_fonts = "family=Permanent+Marker"
 
 
 # Font families
-heading_font = "Permanent+Marker"
-body_font = "Permanent+Marker"
-nav_font = "Permanent+Marker"
-mono_font = "Permanent+Marker"
+heading_font = "family=Permanent+Marker"
+body_font = "family=Roboto"
+nav_font = "family=Roboto"
+mono_font = "family=Roboto"
