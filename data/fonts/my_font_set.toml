@@ -2,11 +2,11 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Permanent+Marker"
+google_fonts = "family=Permanent+Marker&family=Playfair+Display"
 
 
 # Font families
 heading_font = "family=Permanent+Marker"
-body_font = "family=Roboto"
-nav_font = "family=Roboto"
-mono_font = "family=Roboto"
+body_font = "family=Playfair+Display"
+nav_font = "family=Playfair+Display"
+mono_font = "family=Playfair+Display"
