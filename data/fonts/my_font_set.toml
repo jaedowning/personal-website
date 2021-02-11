@@ -4,7 +4,6 @@ name = "my_font_set"
 # Optional Google font URL
 google_fonts = "family=Permanent+Marker&family=Playfair+Display"
 
-
 # Font families
 heading_font = "family=Permanent+Marker"
 body_font = "family=Playfair+Display"
