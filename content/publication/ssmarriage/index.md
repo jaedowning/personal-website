@@ -1,31 +1,71 @@
 ---
-abstract: Medicaid expansion has been shown to improve access to care, health, and finances in general populations. Until now no studies have considered how Medicaid expansion may affect informal family caregivers who are the backbone of the long term supports and services infrastructure. Family caregivers provide substantial cost savings to Medicare and Medicaid.  Yet, they sustain financial, physical, and mental health strain from their caregiving role which Medicaid expansion may offset. This study evaluated the impact of Medicaid expansion on caregivers’ mental health using 2015-2018 data from the Behavioral Risk Factor Surveillance System. After adjusting for demographics, socioeconomic status, and health behaviors, caregivers in Medicaid expansion states had a significantly fewer number of poor mental health days in the previous month than caregivers in non-expansion states (ß=-0.528, CI -1.019, -0.036, p<0.01). Study findings indicate that Medicaid expansion state status was protective for caregiver's mental health.
+title: "Same-Sex Marriage and Gains in Employer-Sponsored Insurance for US Adults, 2008–2017"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Hannah Karpman
-date: "2020-09-01T00:00:00Z"
-doi: "https://doi.org/10.1080/19371918.2020.1798836"
-featured: true
+- Paulette Cha
+
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+
+date: "2020-04-01T00:00:00Z"
+doi: "10.1001/jamadermatol.2020.5419"
+
+# Schedule page publish date (NOT publication's date).
+# publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: In *American Journal of Public Health*
+publication_short: In *AJPH*
+
+abstract: We used 2008–2017 data from the American Community Survey that represent 18 416 674 adult respondents in the United States. We estimated changes to health insurance outcomes using state–year variation in marriage equality recognition in a difference-in-differences framework. Marriage equality led to a 0.61 percentage point (P = .03) increase in employer-sponsored health insurance coverage, with similar results for men and women. US adults gained employer-sponsored coverage as a result of marriage equality recognition over the study period, likely because of an increase in dependent coverage for newly recognized same-sex married partners.
+
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+# tags: []
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: 'https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2019.305510'
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'States by Medicaid Expansion Status'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-links:
-- name: Journal Article
-  url: https://doi.org/10.1080/19371918.2020.1798836
-projects:
-- internal-project
-publication: In *Social Work in Public Health*
-publication_types:
-- "1"
-publishDate: "2020-08-25T00:00:00Z"
-summary: We showed caregivers in states that expanded Medicaid had fewer days of poor mental health than caregivers in non-expansion states.
-tags:
-- Data Science
-- Populuation Health
-title: The Effect of Medicaid Expansion on Caregiver’s Quality of Life
-# url_pdf: "files/Torres_SWinPH_2020.pdf"
----
 
-This paper looked at 
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+# slides: example
+---
 
