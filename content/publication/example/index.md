@@ -35,7 +35,9 @@ abstract: Hair removal can be a critical component of the gender-affirmation pro
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags: []
+# tags:
+ - LGBTQ
+ - Claims
 
 # Display this page in the Featured widget?
 featured: true
