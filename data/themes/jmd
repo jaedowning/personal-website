@@ -1,0 +1,31 @@
+# Theme metadata
+name = "jmd"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#4b4f7c"
+
+# Menu
+menu_primary = "#ffffff"
+menu_text = "#6950a4"
+menu_text_active = "#e05f58"
+menu_title = "#6950a4"
+
+
+# Other Colors
+# Pink #ff96d1
+# Dark blue: #120099
+# Shirt Blue #0182dd
+# Beard: #481f25
+# Glasses: #0c0051
+# Cheeks: #fdec23
+# Skin Color: #F7ba07
+
+# Backgrounds
+#background = "#fbf9f4"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
