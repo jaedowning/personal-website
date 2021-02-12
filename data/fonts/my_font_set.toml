@@ -1,11 +1,15 @@
 # Font style metadata
+
 name = "my_font_set"
 
-# Optional Google font URL
-google_fonts = "family=Permanent+Marker&family=Playfair+Display"
+google_fonts = "Permanent+Marker|Dosis|Roboto|Nanum+Pen+Script|Covered+By+Your+Grace|Shar+Tech+Mono|Open+Sans+Condensed|Titillium+Web|IBM+Plex+Mono|Gloria+Hallelujah|Rock+Salt"
 
 # Font families
-heading_font = "family=Permanent+Marker"
-body_font = "family=Playfair+Display"
-nav_font = "family=Playfair+Display"
-mono_font = "family=Playfair+Display"
+heading_font = "Covered By Your Grace"
+body_font = "Dosis"
+nav_font = "Permanent Marker"
+mono_font = "Share Tech Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "16"
