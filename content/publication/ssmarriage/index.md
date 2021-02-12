@@ -34,7 +34,9 @@ abstract: We used 2008–2017 data from the American Community Survey that repre
 # Summary. An optional shortened abstract.
 summary: Marriage equality increased employer-sponsored health insurance coverage.
 
-tags: ["LGBTQ" "Econometrics"]
+tags:
+- Econometrics
+- LGBTQ
 
 # Display this page in the Featured widget?
 featured: false
