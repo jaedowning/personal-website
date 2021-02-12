@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-04-01T00:00:00Z"
-doi: "10.1001/jamadermatol.2020.5419"
+doi: "10.2105/AJPH.2019.305510"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -32,9 +32,9 @@ publication_short: In *AJPH*
 abstract: We used 2008–2017 data from the American Community Survey that represent 18 416 674 adult respondents in the United States. We estimated changes to health insurance outcomes using state–year variation in marriage equality recognition in a difference-in-differences framework. Marriage equality led to a 0.61 percentage point (P = .03) increase in employer-sponsored health insurance coverage, with similar results for men and women. US adults gained employer-sponsored coverage as a result of marriage equality recognition over the study period, likely because of an increase in dependent coverage for newly recognized same-sex married partners.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Marriage equality increased employer-sponsored health insurance coverage.
 
-# tags: []
+tags: ["LGBTQ"]
 
 # Display this page in the Featured widget?
 featured: false
