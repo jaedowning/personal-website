@@ -35,7 +35,9 @@ publication_short: In *AJPH*
 # Summary. An optional shortened abstract.
 summary: Coaching Coupled with Real-Time Data Improves Blood Glucose.
 
-tags: ["Digital Health" "Econometrics"]
+tags: 
+- Digital Health
+- Econometrics
 
 # Display this page in the Featured widget?
 featured: false
