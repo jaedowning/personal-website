@@ -1,5 +1,4 @@
 
-active: false
 ---
 title: "Use of a Connected Glucose Meter and Certified Diabetes Educator Coaching to Decrease the Likelihood of Abnormal Blood Glucose Excursions: The Livongo for Diabetes Program"
 
