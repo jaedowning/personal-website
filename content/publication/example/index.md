@@ -35,7 +35,7 @@ abstract: Hair removal can be a critical component of the gender-affirmation pro
 # Summary. An optional shortened abstract.
 summary: Hair removal can be a criticial component of the gender affirmation process for transgender patients.
 
-# tags:
+tags:
 - LGBTQ
 - Claims
 
