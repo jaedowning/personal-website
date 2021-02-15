@@ -66,8 +66,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Jae Downing is a professor of public health at OHSU-PSU School of Public Health in Portland. 
