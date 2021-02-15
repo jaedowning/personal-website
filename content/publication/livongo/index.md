@@ -44,8 +44,8 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+links:
+ - name: Link
    url: 'https://www.jmir.org/2017/7/e234/'
 
 url_pdf: ''
