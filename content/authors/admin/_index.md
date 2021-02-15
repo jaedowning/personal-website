@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Jae Downing is a professor of public health at OHSU-PSU School of Public Health in Portland. 
+Data hunter and storyteller.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
