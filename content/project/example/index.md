@@ -31,10 +31,11 @@ url_video: ""
 slides: example
 ---
 
+Often in healthcare we want to know, how can we best predict a health outcome?
 
-For this project, we had longitudinal electronic health records of a large managed care organization, and I linked a probability survey of members with these records. Our goal was to understand if we could improve prediction of hypertension by adding the data we had from the survey. The approach here is described in detail in the attached slides that I wrote in LaTeX. The analysis for this project was done using Stata MP.
+This is a project I did with Kaiser Permanente. I linked survey data with longitudinal electronic health records of some 50k patients. Our goal was to understand if adding in more variables could improve prediction of hypertension. The approach here is described in detail in the attached slides that I wrote in LaTeX. The analysis for this project was done using Stata MP.
 
-This is an illustration of a classic, parametric approach to prediction with use of ROC for regressions, and Harrell's C and Sommers D with survival analysis. Logistic regressions are (sometimes) enough. Fancy algorithms are only as good as the ability to interpret them. 
+This is an illustration of a classic, parametric approach to prediction with use of ROC for regressions, and Harrell's C and Sommers D with survival analysis. Logistic regressions are (sometimes) enough. Fancy algorithms are fun, but are only as good as the ability to interpret them. 
 
 I conducted logistic regressions (naive model and one that included the additional variables) to assess whether a patient got a hypertension diagnosis over their enrollment period. Then, I compared predictive ability of models with area under the ROC. The additional variables didn't add to the predictive performance of the naive model.
 
