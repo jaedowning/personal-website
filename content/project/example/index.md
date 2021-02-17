@@ -30,3 +30,12 @@ url_video: ""
 slides: kaiser
 ---
 
+This work was done as part of my post-doc. The goal of the project was to understand if we could improve prediction of hypertension among people who didn't have hypertension at baseline. The approach here is described in detail in the attached slides that I wrote in LaTeX. The analysis for this project was done using StataMP.
+
+First, I conducted logistic regressions (naive model and one that included the additional variables) and then compared predictive ability of models with area under the ROC. 
+
+Next, because not all people continue over the full time period analyzed, we need to take censoring into account. Thus, I conducted survival analysis to allow for censoring. To assess predictive performance, we can use something similar to aROC - Harrell's C and Somers' D concordance. 
+
+All these models conclude that the additional variables didn't add to the predictive performance of the model.
+
+These approaches are grounded in epidemiology and econometrics. This was more easily understood by my colleagues. I also use a machine learning approach (Part 2) for this project. 
