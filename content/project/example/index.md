@@ -28,8 +28,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: kaiser
 ---
+slides: kaiser
 
 For this project, we had longitudinal electronic health records of a large managed care organization, and I linked a probability survey of members with these records. Our goal was to understand if we could improve prediction of hypertension by adding the data we had from the survey. The approach here is described in detail in the attached slides that I wrote in LaTeX. The analysis for this project was done using Stata MP.
 
