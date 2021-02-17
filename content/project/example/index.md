@@ -2,7 +2,7 @@
 title: Prediction of Hypertension
 summary: Parametric approaches to prediction of a health outcome 
 tags:
-- Prediction
+- Predict
 - EHR 
 date: "2017-07-27T00:00:00Z"
 
