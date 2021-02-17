@@ -19,7 +19,7 @@ links:
   name: Follow
   url: https://twitter.com/jaedowning
 url_code: ""
-url_pdf: "kaiser"
+url_pdf: "content/project/example/kaiser"
 url_slides: ""
 url_video: ""
 
