@@ -28,10 +28,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: LGBTQ
-    tag: LGBTQ
-  - name: Social Determinants
-    tag: SD
+  - name: Prediction
+    tag: Predict
+  - name: Electronic Health Records
+    tag: EHR
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
