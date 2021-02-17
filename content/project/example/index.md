@@ -10,7 +10,7 @@ date: "2017-07-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo from pixabay
   focal_point: Smart
 
 links:
@@ -19,7 +19,7 @@ links:
   name: Follow
   url: https://twitter.com/jaedowning
 url_code: ""
-url_pdf: " "
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
