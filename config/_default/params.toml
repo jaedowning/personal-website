@@ -273,7 +273,7 @@ plugins_js  = []
 ############################
 [marketing]
   google_analytics = ""
-  google_tag_manager = "GTM-KMHDQLS"
+  google_tag_manager = "G-GK2J4MZKXV"
   google_site_verification = "r7q4MxCDwNa9uzebiolisp3xG5yOf_h-TGmxunSxNIA"
 
 ############################
