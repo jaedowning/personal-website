@@ -33,7 +33,7 @@ publication_short: In *JAMA Dermatology*
 abstract: Hair removal can be a critical component of the gender-affirmation process for transgender patients and is often required before vaginoplasty or phalloplasty to prevent postoperative complications. In 2015, Oregon was one of the first of 22 states to cover gender-affirming surgeries in their Medicaid program. Oregon is 1 of 6 states covering hair removal as part of presurgical preparation for genital or chest surgeries. Oregon’s plan covers these services without cost-sharing and requires procedures to be performed by board-certified dermatologists or other health care professionals licensed to perform hair removal. Little is known about use of electrolysis hair removal and laser hair removal once covered. This study describes hair removal for transgender individuals assigned male sex at birth in Oregon’s Medicaid program from 2015 to 2018.
 
 # Summary. An optional shortened abstract.
-summary: Hair removal can be a criticial component of the gender affirmation process for transgender patients.
+summary: We use claims data from Oregon's Medicaid program to study pre-operative hair removal.
 
 tags:
 - LGBTQ
