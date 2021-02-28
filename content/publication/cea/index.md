@@ -41,7 +41,7 @@ Results:  Overall, the cost-effectiveness of early application of the NASG at th
 Conclusions: Early NASG application at the PHC for women in hypovolemic shock has the potential to be cost-effective across many clinical settings. The NASG is designed to reverse shock and decrease further bleeding for women with obstetric hemorrhage; therefore, women who have received the NASG earlier may be better able to survive delays in reaching definitive care at the RH and recover more quickly from shock, all at a cost that is highly acceptable.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Early NASG application at the PHC for women in hypovolemic shock has the potential to be cost-effective across many clinical settings.
 
 tags: 
 - Cost-Effectiveness
