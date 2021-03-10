@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-10+ years of experience in healthcare designing research, analyzing and collecting data, and synthesizing results to communicate to multiple stakeholders.
+10+ years of experience designing research in healthcare, analyzing and collecting data, and presenting results. Expertise in synthesizing and communicating data insights. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
