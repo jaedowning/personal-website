@@ -70,7 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Data hunter and storyteller.
-
+10+ years of experience in healthcare designing research, analyzing and collecting data, and synthesizing results to communicate to multiple stakeholders.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
