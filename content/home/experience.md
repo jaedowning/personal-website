@@ -54,15 +54,15 @@ experience:
     date_end: '2015-06-24'
     description: ' '
  
- - title: 'Health Economics Analyst'
+  - title: 'Health Economics Analyst'
     company: 'University of California, San Francisco'
     company_url: ''
     location: 'California'
     date_start: '2010-02-01'
     date_end: '2013-06-22'
     description: ' '
-   
- - title: 'Small Business Development Technical Adviser'
+ 
+  - title: 'Small Business Development Technical Adviser'
     company: 'United States Peace Corps'
     company_url: ''
     location: 'Morocco'
@@ -70,7 +70,7 @@ experience:
     date_end: '2009-06-24'
     description: ' '
     
- - title: 'Finance & Operations Associate'
+  - title: 'Finance & Operations Associate'
     company: 'Pricewaterhouse Coopers'
     company_url: ''
     location: 'Virginia'
