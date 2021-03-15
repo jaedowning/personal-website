@@ -43,7 +43,7 @@ experience:
     company_url: ''
     location: 'California'
     date_start: '2015-02-01'
-    date_end: '2017-06-31'
+    date_end: '2017-06-24'
     description: ' '
              
   - title: 'Health Researcher'
@@ -51,7 +51,7 @@ experience:
     company_url: ''
     location: 'California'
     date_start: '2013-02-01'
-    date_end: '2015-06-31'
+    date_end: '2015-06-24'
     description: ' '
  
  - title: 'Health Economics Analyst'
@@ -59,7 +59,7 @@ experience:
     company_url: ''
     location: 'California'
     date_start: '2010-02-01'
-    date_end: '2013-06-31'
+    date_end: '2013-06-22'
     description: ' '
    
  - title: 'Small Business Development Technical Adviser'
@@ -67,7 +67,7 @@ experience:
     company_url: ''
     location: 'Morocco'
     date_start: '2008-02-01'
-    date_end: '2009-06-31'
+    date_end: '2009-06-24'
     description: ' '
     
  - title: 'Finance & Operations Associate'
@@ -75,7 +75,7 @@ experience:
     company_url: ''
     location: 'Virginia'
     date_start: '2006-02-01'
-    date_end: '2007-06-31'
+    date_end: '2007-06-24'
     description: ' '
     
 ---
