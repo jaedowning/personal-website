@@ -55,6 +55,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/jaedowning
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2382-5537
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
