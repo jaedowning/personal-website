@@ -66,7 +66,7 @@ experience:
     company: 'United States Peace Corps'
     company_url: ''
     location: 'Morocco'
-    date_start: '2008-02-01'
+    date_start: '2007-10-01'
     date_end: '2009-06-24'
     description: ' '
     
@@ -74,8 +74,8 @@ experience:
     company: 'Pricewaterhouse Coopers'
     company_url: ''
     location: 'Virginia'
-    date_start: '2006-02-01'
-    date_end: '2007-06-24'
+    date_start: '2006-06-01'
+    date_end: '2007-09-24'
     description: ' '
     
 ---
