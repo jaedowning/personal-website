@@ -6,7 +6,7 @@ title: Jae Downing
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Public Health
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Health Services and Policy Analysis
+  - course: PhD in Health Services and Policy
     institution: University of California, Berkeley
     year: 2015
   - course: MS in Global Health Sciences
