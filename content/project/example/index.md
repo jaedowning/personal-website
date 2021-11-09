@@ -1,10 +1,7 @@
 ---
-title: Prediction of Hypertension
-summary: Parametric approaches to prediction of a health outcome 
-tags:
-- Predict
-- EHR 
-date: "2017-07-27T00:00:00Z"
+title: PrEP Use and Adherence Among Transgender Individuals
+summary: Insurance claims data can improve surveillence for PrEP 
+date: "2021-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,17 +28,4 @@ url_video: ""
 slides: example
 ---
 
-Often in healthcare we want to know, how can we best predict a health outcome?
-
-This is a project I did with Kaiser Permanente. I linked survey data with longitudinal electronic health records of some 50k patients. Our goal was to understand if adding in more variables could improve prediction of hypertension. The approach here is described in detail in the attached slides that I wrote in LaTeX. The analysis for this project was done using Stata MP.
-
-This is an illustration of a classic, parametric approach to prediction with use of ROC for regressions, and Harrell's C and Sommers D with survival analysis. Logistic regressions are (sometimes) enough. Fancy algorithms are fun, but are only as good as the ability to interpret them. 
-
-I conducted logistic regressions (naive model and one that included the additional variables) to assess whether a patient got a hypertension diagnosis over their enrollment period. Then, I compared predictive ability of models with area under the ROC. The additional variables didn't add to the predictive performance of the naive model.
-
-Next, because not all people are enrolled in the plan over the full time period analyzed, the model would be biased if the people with hypertension died or left the plan because they were too sick. Thus we need to take censoring into account. I conducted survival analysis to allow for censoring. To assess predictive performance, we can use something similar to aROC - Harrell's C and Somers' D concordance. Again, the additional variables didn't add much to prediction.
-
-All these models conclude that if we knew about patients education, financial strain, smoking, drinking, and marital status - we wouldn't be able to guess any better if they would develop hypertension. This is likely because there is a high correlation between these variables and the ones we already know - race, ethnicity, sex, age, and body mass index. 
-
-The question we want to know next is, what do we do when we have a lot of variables? Which ones matter for prediction, and which ones matter most? These questions require more a more sophisticated approach such as ensemble machine learning, which I will cover in another post. 
-
+This cross-sectional study used 2012 to 2019 Oregon Medicaid claims to estimate the prevalence of PrEP use and identify determinants of high adherence across transgender and cisgender men and women. Gender identity (cisgender woman/man; transgender, assigned female sex at birth (AFAB); transgender, assigned male sex at birth (AMAB)) was based on medical history and enrollment records. Proportion of days covered ≥ 0.80 was considered high adherence to PrEP. The association between gender identity and PrEP uptake or high adherence was estimated using multivariable logistic regression. 1555 PrEP users, including 171 (11.0%) cis women, 1171 (75.3%) cis men, 67 (4.3%) AFAB, and 146 (9.4%) AMAB individuals, were included. The probability of PrEP use per 10,000 people was highest in transgender groups (AMAB 546.8, 95% CI 462.4–631.3; AFAB 226.5, 95% CI 173.4–279.6), followed by cisgender men (20.6, 95% CI 19.4, 21.8) and women (2.6, 95% CI 2.2, 3.0). High adherence was significantly lower in AMAB recipients (72.6%) than cisgender women (86.0%) and cisgender men (82.2%). Among the 279 PrEP users with female on their enrollment record, 76 (27.2%) were AMAB, while among the 1276 PrEP users with male on their enrollment record, 35 (2.7%) were AFAB. This demonstrates the importance of surveillance methods that take gender identity into account in addition to sex assigned at birth. There were significant differences in PrEP use and adherence by gender identity. PrEP surveillance, outreach, and prescribing practices must consider gender identity-unique risk factors.
