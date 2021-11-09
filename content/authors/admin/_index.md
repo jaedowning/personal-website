@@ -73,4 +73,4 @@ email: ""
 highlight_name: true
 ---
 
-10+ years of experience designing research in healthcare, analyzing and collecting data, and presenting results. Expertise in synthesizing and communicating data insights. 
+Dr. Downing is a scholar and strategic advisor passionate about reinventing healthcare for LGBTQ people.
