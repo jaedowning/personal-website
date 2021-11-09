@@ -16,7 +16,7 @@ links:
   name: Follow
   url: https://twitter.com/jaedowning
 url_code: ""
-url_pdf: ""
+url_pdf: "featured.pdf"
 url_slides: ""
 url_video: ""
 
@@ -30,6 +30,6 @@ url_video: ""
 
 Very little is known about transgender patients who use PrEP for HIV prevention. What is known about PrEP using insurance claims data relies on gender on enrollment records - which means we only know use of PrEP among men and women. 
 
-PrEP use among cisgender women is still rare. That means that if transgender people are not separated out into another gender group, reported rates of use of PrEP among cisgender women will be overestimated. Transgender and gender diverse people also have unique concerns about using PrEP. 
+PrEP use among cisgender women is still rare. That means that if transgender people are not separated out into another gender group, reported rates of use of PrEP among cisgender women will be overestimated. We found that 40 percent of PrEP users identified as women on their record were transgender.
 
-This study shows that transgender women have a lower rate of adherence of PrEP compared to other users, urging future work to focus on identifying reasons why that may be unique to this population.
+Transgender and gender diverse people also have unique concerns about using PrEP. This study shows that transgender women have a lower rate of adherence of PrEP compared to other users, urging future work to focus on identifying reasons why that may be unique to this population.
