@@ -75,4 +75,4 @@ highlight_name: true
 
 Dr. Downing is an assistant professor of health policy at Oregon Health and Science University. They are working to reinvent healthcare for LGBTQ people through scholarship and partnerships with digital health companies.
 
-Jae is currently leading a project investigating [substance use among transgender Medicaid beneficiaries] (https://reporter.nih.gov/search/TwUZdye2PkK94TZ0KQCM5A/project-details/10300945) funded by the National Institute on Drug Abuse. 
+Jae is currently leading a project investigating [substance use among transgender Medicaid beneficiaries](https://reporter.nih.gov/search/TwUZdye2PkK94TZ0KQCM5A/project-details/10300945) funded by the National Institute on Drug Abuse. 
