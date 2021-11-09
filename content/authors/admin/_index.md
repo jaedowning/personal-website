@@ -18,9 +18,9 @@ bio: Interested in it all.
 
 # Interests to show in About widget
 interests:
+- Gender and Sexual Minorities
 - Data Science
-- Health Economics
-- Survey Design
+- Reproductive Health
 
 # Education to show in About widget
 education:
