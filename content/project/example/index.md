@@ -15,8 +15,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/jaedowning
-url_code: ""
-url_pdf: "featured.pdf"
+url_code: "https://link.springer.com/article/10.1007/s10461-021-03482-8"
+url_pdf: "featured"`
 url_slides: ""
 url_video: ""
 
@@ -25,7 +25,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+# slides: featured.pdf
 ---
 
 Very little is known about transgender patients who use PrEP for HIV prevention. What is known about PrEP using insurance claims data relies on gender on enrollment records - which means we only know use of PrEP among men and women. 
