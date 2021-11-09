@@ -17,10 +17,10 @@ organizations:
 bio: Interested in it all.
 
 # Interests to show in About widget
-interests:
-- Gender and Sexual Minorities
-- Data Science
-- Reproductive Health
+# interests:
+# - Gender and Sexual Minorities
+# - Data Science
+# - Reproductive Health
 
 # Education to show in About widget
 education:
@@ -73,4 +73,4 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Downing is a scholar and strategic advisor passionate about reinventing healthcare for LGBTQ people.
+Dr. Downing is an assistant professor of health policy at Oregon Health and Science University, where they are working to reinvent healthcare for LGBTQ people. They currently are leading a project investigating substance use among transgender Medicaid beneficiaries funded by the National Institute on Drug Abuse. 
