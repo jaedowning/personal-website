@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: TRANS-ARC
 
 event: TRANS-ARC Summit
 event_url: https://trans-arc.org/
@@ -12,7 +12,7 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-12T13:00:00Z"
-date_end: "2021-03-12T15:00:00Z"
+date_end: "2021-03-13T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
