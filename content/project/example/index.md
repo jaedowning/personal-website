@@ -15,8 +15,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/jaedowning
-url_code: "https://link.springer.com/article/10.1007/s10461-021-03482-8"
-url_pdf: ""
+url_code: ""
+url_pdf: "https://link.springer.com/article/10.1007/s10461-021-03482-8"
 url_slides: ""
 url_video: ""
 
