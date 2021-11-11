@@ -11,12 +11,11 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/jaedowning
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://link.springer.com/article/10.1007/s10461-021-03482-8
 url_code: ""
-url_pdf: "https://link.springer.com/article/10.1007/s10461-021-03482-8"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
