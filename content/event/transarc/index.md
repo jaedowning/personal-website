@@ -1,13 +1,13 @@
 ---
-title: TRANS-ARC
+title: Transgender & Non-Binary Surgery Allied Research Collective
 
 event: TRANS-ARC Summit
 event_url: https://trans-arc.org/
 
 location: Virtual
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Strategies in research on gender-affirming genital surgeries
+abstract: " "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +25,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'TRANS-ARC Logo'
+  caption: ''
   focal_point: Right
 
 links:
