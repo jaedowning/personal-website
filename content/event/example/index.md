@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "{{< youtube id="ZnkTBuyVfmY" >}}"
+url_video: "https://www.youtube.com/watch?v=ZnkTBuyVfmY"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
