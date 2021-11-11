@@ -9,6 +9,7 @@ location: Virtual
 summary: Strategies in research on gender-affirming genital surgeries
 abstract: " "
 
+{{< youtube w7Ft2ymGmfc >}}
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +41,7 @@ url_video: "https://www.youtube.com/watch?v=ZnkTBuyVfmY"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
- slides: "youtube"`
+# slides: "youtube"`
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
