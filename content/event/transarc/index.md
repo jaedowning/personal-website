@@ -24,7 +24,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: transarc.jpg
+image:
   caption: 'TRANS-ARC Logo'
   focal_point: Right
 
