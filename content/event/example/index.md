@@ -1,10 +1,10 @@
 ---
 active: false
 
-title: TRANS-ARC
+title: example
 
-event: TRANS-ARC Summit
-event_url: https://trans-arc.org/
+event: example
+event_url: 
 
 location: Virtual
 
