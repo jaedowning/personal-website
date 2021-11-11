@@ -33,5 +33,3 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=ZnkTBuyVfmY"
-
-{{< youtube ZnkTBuyVfmY >}}
