@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Downing is an assistant professor of health policy at Oregon Health and Science University. They are working to reinvent healthcare for LGBTQ people through scholarship and partnerships with digital health companies.
+Dr. Downing is an assistant professor of health policy at [Oregon Health & Science University](https://ohsu-psu-sph.org/). They are working to reinvent healthcare for LGBTQ people through scholarship and partnerships with digital health companies.
 
 Current projects supported by the National Institutes of Health and the Patient-Centered Outcomes Research Institute focus on [substance use](https://reporter.nih.gov/search/TwUZdye2PkK94TZ0KQCM5A/project-details/10300945), [access to care](https://genderdiverseoregon.org/), and [surgical care](https://trans-arc.org/) among transgender populations.
