@@ -13,7 +13,7 @@ image:
 links:
 - icon: google-scholar  
   icon_pack: ai
-  link: https://link.springer.com/article/10.1007/s10461-021-03482-8
+  link: "https://link.springer.com/article/10.1007/s10461-021-03482-8"
 url_code: ""
 url_pdf: ""
 url_slides: ""
