@@ -24,6 +24,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+youtube_video = "https://www.youtube.com/watch?v=ZnkTBuyVfmY"
+
 image:
   caption: 'TRANS-ARC Logo'
   focal_point: Right
