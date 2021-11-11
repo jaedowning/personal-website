@@ -1,6 +1,6 @@
-
-active: false
 ---
+active: false
+
 title: TRANS-ARC
 
 event: TRANS-ARC Summit
