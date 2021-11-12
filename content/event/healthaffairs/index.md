@@ -12,7 +12,7 @@ abstract: "Jae Downing shared insights from their work [published in Health Affa
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-07-19T13:00:00Z"
-date_end: "2021-07-19T15:00:00Z"
+date_end: "2019-07-19T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
