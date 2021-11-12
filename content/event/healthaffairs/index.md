@@ -4,10 +4,10 @@ title: Health Affairs Podcast
 event: Health Affairs Podcast
 event_url: https://www.healthaffairs.org/do/10.1377/hp20180726.865280/full/
 
-location: Virtual
+location: Podcast
 
-summary: Invited guest on Shiny Epi People with Lisa Bodnar
-abstract: "Jae Downing shared insights from their work published in Health Affairs. At the time, transgender military was banned from serving openly in the military based on the presumption, in part, that healthcare for this population would cost more. Dr. Downing's research found that while the health of transgender civilians is worse than their cisgender peers, no differences were found in the health of transgender and cisgender veterans. [Listen to the podcast!](https://www.healthaffairs.org/do/10.1377/hp20180726.865280/full/)"
+summary: Invited guest on Health Affairs podcast
+abstract: "Jae Downing shared insights from their work [published in Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2018.0027). At the time, transgender military was banned from serving openly in the military based on the presumption, in part, that healthcare for this population would cost more. Dr. Downing's research found that while the health of transgender civilians is worse than their cisgender peers, no differences were found in the health of transgender and cisgender veterans. [Listen to the podcast!](https://www.healthaffairs.org/do/10.1377/hp20180726.865280/full/)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
