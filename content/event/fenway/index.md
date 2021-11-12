@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://fenwayhealth.org/judy-bradford-memorial-lgbtqia-womens-health-research-forum/videos/"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
