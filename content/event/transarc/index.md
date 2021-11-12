@@ -9,8 +9,6 @@ location: Virtual
 summary: Strategies in research on gender-affirming genital surgeries
 abstract: " "
 
-{{< youtube w7Ft2ymGmfc >}}
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-12T13:00:00Z"
