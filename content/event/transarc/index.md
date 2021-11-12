@@ -6,8 +6,12 @@ event_url: https://trans-arc.org/
 
 location: Virtual
 
-summary: Strategies in research on gender-affirming genital surgeries
-abstract: " "
+summary: PCORI-funded project on gender-affirming genital surgeries
+abstract: "At the Summit, we heard presentations from community members, clinicians and researchers about surgery and transgender health research. In small groups we worked together to create research questions, discussed barriers to community engagement in research, and brainstormed ways to share the results of our work and future research with the community we serve. 
+
+The [Prioritized Research List](https://files.cargocollective.com/c821244/TRANS-ARC-CER-QUESTIONS.pdf) was our final product for this Summit.
+
+Jae Downing gave a presentation on [Strategies for Gender-Affirming Genital Surgery Research](https://www.youtube.com/watch?v=ZnkTBuyVfmY) and later moderated a panel on [Dissemination of Research Findings: Research to Practice, Policy and Community](https://www.youtube.com/watch?v=MMpJoU8cCdI) with Gaines Blasdel (Healthy Trans & NYU Langone), Maddie Deutsch, MD, MPH (UCSF & USPATH), Jody Herman, PhD, (Williams Institute & UCLA), and Luz-Fernanda Venegas (UCSF)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
