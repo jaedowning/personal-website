@@ -24,7 +24,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
+image: featured.jpeg
   caption: ''
   focal_point: Right
 
