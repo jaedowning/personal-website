@@ -7,12 +7,12 @@ event_url: https://podcasts.apple.com/us/podcast/jae-downing-phd-on-sexual-gende
 location: Virtual
 
 summary: PCORI-funded project on gender-affirming genital surgeries
-abstract: "Jae Downing, PhD is an assistant professor in Oregon Health and Science University - Portland State University School of Public Health. Their research explores how policies and social safety nets shape healthcare for gender and sexual minority populations.  Jae tells me how they protect research time by setting boundaries on service, the challenges and exciting aspects of studying sexual and gender minority populations, becoming a parent in the pandemic, lessons Jae and their wife learned about second-parent adoption of their son, love of rom-coms, Bridgerton, Brene Brown, and more!."
+abstract: "Jae Downing, PhD is an assistant professor in Oregon Health and Science University - Portland State University School of Public Health. Their research explores how policies and social safety nets shape healthcare for gender and sexual minority populations.  Jae tells me how they protect research time by setting boundaries on service, the challenges and exciting aspects of studying sexual and gender minority populations, becoming a parent in the pandemic, lessons Jae and their wife learned about second-parent adoption of their son, love of rom-coms, Bridgerton, Brene Brown, and more!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-27T13:00:00Z"
-date_end: "2021-27-13T15:00:00Z"
+date_end: "2021-03-27T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -32,7 +32,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=ZnkTBuyVfmY"
+url_video: "https://podcasts.apple.com/us/podcast/shiny-epi-people/id1526951176"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
