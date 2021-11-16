@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: In *American Journal of Epidemiology*
 publication_short: In *AJE*
 
-abstract: 
+abstract: It is unknown whether people in same sex relationships who give birth have different perinatal outcomes than people in different sex relationships, despite differences in risk factors such as use of assisted reproductive technologies, obesity, smoking, and poor mental health. We used birth certificate data from Massachusetts for 201,873 singletons born to married parents from 2012 to 2016. We estimated the associations of several birth outcomes with having a birth parent in a same-sex marriage using propensity score–matched and –unmatched samples. People in same-sex marriages who gave birth had perinatal outcomes relatedto decreased fetal growth and preterm birth that were similar to those of their peers in different-sex marriages. 
 
 # Summary. An optional shortened abstract.
 summary: No differences in perinatal outcomes of birthing people in same and different-sex marriages.
