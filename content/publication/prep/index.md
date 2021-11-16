@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-07-27T00:00:00Z"
-doi: "10.1001/jamadermatol.2020.5419"
+doi: "10.1007/s10461-021-03482-8"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -30,11 +30,7 @@ publication_types: ["2"]
 publication: In *AIDS and Behavior*
 publication_short: In *AIDS and Behavior*
 
-abstract: Very little is known about transgender patients who use PrEP for HIV prevention. What is known about PrEP using insurance claims data relies on gender on enrollment records - which means we only know use of PrEP among men and women. 
-
-PrEP use among cisgender women is still rare. That means that if transgender people are not separated out into another gender group, reported rates of use of PrEP among cisgender women will be overestimated. We found that 40 percent of PrEP users identified as women on their record were transgender.
-
-Transgender and gender diverse people also have unique concerns about using PrEP. This study shows that transgender women have a lower rate of adherence of PrEP compared to other users, urging future work to focus on identifying reasons why that may be unique to this population. 
+abstract: Very little is known about transgender patients who use PrEP for HIV prevention. What is known about PrEP using insurance claims data relies on gender on enrollment records - which means we only know use of PrEP among men and women. PrEP use among cisgender women is still rare. That means that if transgender people are not separated out into another gender group, reported rates of use of PrEP among cisgender women will be overestimated. We found that 40 percent of PrEP users identified as women on their record were transgender.Transgender and gender diverse people also have unique concerns about using PrEP. This study shows that transgender women have a lower rate of adherence of PrEP compared to other users, urging future work to focus on identifying reasons why that may be unique to this population. 
 
 # Summary. An optional shortened abstract.
 summary: Insurance claims data can improve surveillance for PrEP.
