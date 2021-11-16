@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-05-14T00:00:00Z"
-doi: "10.1097/QAD.0000000000002906"
+doi: "10.1093/aje/kwab148"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -36,19 +36,14 @@ technologies, obesity, smoking, and poor mental health. Marriage equality has es
 promising new source of population-based data on births to same-sex married parents. We used birth certificate
 data from Massachusetts for 201,873 singletons born to married parents from 2012 to 2016. We estimated the
 associations of several birth outcomes with having a birth parent in a same-sex marriage using propensity score–
-matched and –unmatched samples. We also tested whether these associations were modified by the use of
-assisted reproductive technologies. People in same-sex marriages who gave birth had perinatal outcomes related
-to decreased fetal growth and preterm birth that were similar to those of their peers in different-sex marriages. Use
-of assisted reproductive technology was associated with decreased fetal growth and increased risk of preterm
-birth for infants with different-sex parents but not for infants with same-sex parents. More research is needed
-across other states and to understand why use of assisted reproductive technology is not a risk factor for poor
-birth outcomes for those in same-sex marriages.
+matched and –unmatched samples. People in same-sex marriages who gave birth had perinatal outcomes related
+to decreased fetal growth and preterm birth that were similar to those of their peers in different-sex marriages. 
 
 # Summary. An optional shortened abstract.
 summary: No differences in perinatal outcomes of birthing people in same and different-sex marriages.
 
-tags:
-- LGBTQ
+# tags:
+# - LGBTQ
 
 # Display this page in the Featured widget?
 featured: false
