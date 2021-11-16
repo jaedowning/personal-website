@@ -7,7 +7,7 @@ event_url: https://podcasts.apple.com/us/podcast/jae-downing-phd-on-sexual-gende
 location: Virtual
 
 summary: Invited guest on Shiny Epi People with Lisa Bodnar
-abstract: "Jae Downing, PhD is an assistant professor in Oregon Health and Science University - Portland State University School of Public Health. Their research explores how policies and social safety nets shape healthcare for gender and sexual minority populations.  Jae tells me how they protect research time by setting boundaries on service, the challenges and exciting aspects of studying sexual and gender minority populations, becoming a parent in the pandemic, lessons Jae and their wife learned about second-parent adoption of their son, love of rom-coms, Bridgerton, Brene Brown, and more! [Listen to the episode](https://podcasts.apple.com/us/podcast/shiny-epi-people/id1526951176)"
+abstract: "Jae Downing's research explores how policies and social safety nets shape healthcare for gender and sexual minority populations.  Jae talks about how they protect research time by setting boundaries on service, the challenges and exciting aspects of studying sexual and gender minority populations, becoming a parent in the pandemic, lessons Jae and their wife learned about second-parent adoption of their son, love of rom-coms, Bridgerton, Brene Brown, and more! [Listen to the episode](https://podcasts.apple.com/us/podcast/shiny-epi-people/id1526951176)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
